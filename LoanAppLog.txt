@@ -1,0 +1,10 @@
+07-22 18:08 root         INFO     Connected to loan_data.db
+07-22 18:08 werkzeug     INFO      * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+07-22 18:08 werkzeug     INFO     127.0.0.1 - - [22/Jul/2022 18:08:52] "[37mGET /application.html HTTP/1.1[0m" 200 -
+07-22 18:08 werkzeug     INFO     127.0.0.1 - - [22/Jul/2022 18:08:57] "[37mGET /application.html HTTP/1.1[0m" 200 -
+07-22 18:09 root         INFO     Capturing app data Suganthi
+07-22 18:09 root         INFO     ['Suganthi', 'suganela.14@gmail.com', '30', '0', '1', '1', '1', '0', '1000', '100000', '100000', '40', '1', '2']
+07-22 18:09 root         INFO     Connected to loan_data.db
+07-22 18:09 root         INFO     DB commit successful
+07-22 18:09 root         INFO     Your loan application with Reference number is [ 5],Your application under review, We will update you in 3 business days
+07-22 18:09 werkzeug     INFO     127.0.0.1 - - [22/Jul/2022 18:09:25] "[37mPOST /application.html HTTP/1.1[0m" 200 -
